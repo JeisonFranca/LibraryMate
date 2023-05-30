@@ -1,0 +1,6 @@
+module Pods_LibraryMate_LibraryMateTests {
+  umbrella header "Pods-LibraryMate-LibraryMateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
